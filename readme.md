@@ -1,8 +1,6 @@
-# sindresorhus [![Build Status](https://travis-ci.org/sindresorhus/sindresorhus.svg?branch=master)](https://travis-ci.org/sindresorhus/sindresorhus)
+# juristr
 
-> The [Sindre Sorhus](https://sindresorhus.com) CLI
-
-<img src="screenshot.png" width="752">
+> **Note:** This package has been forked from [Sindre Sorhus CLI](https://github.com/sindresorhus/sindresorhus) and adapted for my use. Credits & ❤️ go to Sindre!
 
 
 ## Usage
@@ -10,7 +8,7 @@
 Install Node.js, then:
 
 ```
-$ npx sindresorhus
+$ npx juristr
 ```
 
 

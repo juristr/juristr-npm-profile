@@ -1,16 +1,16 @@
 {
-	"name": "sindresorhus",
+	"name": "juristr",
 	"version": "2.0.1",
-	"description": "The Sindre Sorhus CLI",
+	"description": "Originally taken from Sindre Sorhus (https://github.com/sindresorhus/sindresorhus)",
 	"license": "MIT",
-	"repository": "sindresorhus/sindresorhus",
+	"repository": "juristr/juristr",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"name": "Juri Strumpflohner",
+		"email": "info@juristr.com",
+		"url": "https://juristr.com"
 	},
 	"bin": {
-		"sindresorhus": "source/cli.js"
+		"juristr": "source/cli.js"
 	},
 	"engines": {
 		"node": ">=8"
@@ -24,7 +24,7 @@
 	"keywords": [
 		"cli-app",
 		"cli",
-		"sindresorhus",
+		"juristr",
 		"unicorns"
 	],
 	"dependencies": {
