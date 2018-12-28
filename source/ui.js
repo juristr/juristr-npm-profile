@@ -35,6 +35,14 @@ const items = [
 		url: 'https://juristr.com/blog'
 	},
 	{
+		label: 'Videos',
+		url: 'https://egghead.io/instructors/juri-strumpflohner'
+	},
+	{
+		label: 'Linkedin',
+		url: 'https://linkedin.com/in/juristr/'
+	},
+	{
 		label: 'Ask Me Anything',
 		url: 'https://github.com/juristr/ama'
 	},
